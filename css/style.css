@@ -2,9 +2,19 @@ body {
 	font-family: sans-serif;
 	font-size: 24px;
 	text-align: center;
+<<<<<<< HEAD
 	justify-content: center;
+=======
+	background-color: #ccc;
+>>>>>>> cabezal
 }
 
 p {
 	color: #48e;
+}
+
+#cabezal {
+	background-color: #ccc;
+	color: #fff;
+	outline: 2px dotted #darkred;
 }
