@@ -8,3 +8,9 @@ body {
 p {
 	color: #48e;
 }
+
+#cabezal {
+	background-color: #ccc;
+	color: #fff;
+	outline: 2px dotted #darkred;
+}
