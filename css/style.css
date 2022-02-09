@@ -2,11 +2,8 @@ body {
 	font-family: sans-serif;
 	font-size: 24px;
 	text-align: center;
-<<<<<<< HEAD
-	justify-content: center;
-=======
+	justify-content: left;
 	background-color: #ccc;
->>>>>>> cabezal
 }
 
 p {
